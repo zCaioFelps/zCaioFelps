@@ -1,16 +1,16 @@
-## Caio Felipe
+## Caio Felipe | Support Analyst focused on Product Thinking and Problem Solving
 
-I work where user experience, operational systems, and product decisions meet.
+I work where **user experience and product decisions meet**.
 
 As a Support Analyst with a strong product-oriented mindset, I focus on identifying real user problems, structuring technical feedback, and improving the processes that connect users and development teams.
 
-I believe great systems are built not only with good code, but with clear communication, well-structured problems, and continuous improvement.
+Great systems are not built only with good code, but with **clear communication, well-structured problems, and continuous improvement**.
 
-* 📍 Brazilian
+* 📍 Based in Brazil
 * 🗣️ Fluent in English
 * 🐱 Cat person
 * 🎂 Born on **January 27, 2005**
-* Passionate about learning how systems, products, and teams work together
+* 🧩 Passionate about learning how systems, products, and teams work together
 
 ---
 
@@ -27,7 +27,7 @@ I believe great systems are built not only with good code, but with clear commun
 
 ## ⚙️ How I Work
 
-I believe good systems are built not only by writing code, but by **understanding problems clearly and structuring them well**.
+I believe good systems are built by **understanding problems clearly and structuring them well**.
 
 My typical workflow involves:
 
