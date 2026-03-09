@@ -1,16 +1,80 @@
-## Hi there 👋
+## Caio Felipe
 
-<!--
-**zCaioFelps/zCaioFelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work where user experience, operational systems, and product decisions meet.
 
-Here are some ideas to get you started:
+As a Support Analyst with a strong product-oriented mindset, I focus on identifying real user problems, structuring technical feedback, and improving the processes that connect users and development teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe great systems are built not only with good code, but with clear communication, well-structured problems, and continuous improvement.
+
+* 📍 Brazilian
+* 🗣️ Fluent in English
+* 🐱 Cat person
+* 🎂 Born on **January 27, 2005**
+* Passionate about learning how systems, products, and teams work together
+
+---
+
+## 🧠 What I Focus On
+
+* Product feedback loops between users and development teams
+* Process improvement and operational efficiency
+* Issue triaging and prioritization
+* Translating user problems into structured technical reports
+* Supporting system adoption and usability improvements
+* Documentation and internal process organization
+
+---
+
+## ⚙️ How I Work
+
+I believe good systems are built not only by writing code, but by **understanding problems clearly and structuring them well**.
+
+My typical workflow involves:
+
+1. Identifying recurring issues or operational friction
+2. Structuring clear issue reports with context and reproduction steps
+3. Prioritizing improvements based on real impact
+4. Supporting product teams with organized feedback from users
+5. Continuously improving internal processes and documentation
+
+---
+
+## 📈 GitHub Activity
+
+My GitHub activity reflects my role within technical workflows:
+
+* High interaction with **issues and project management**
+* Contributions through **documentation and operational improvements**
+* Collaboration with development teams through structured problem reports and process improvements
+
+Even without writing production code, I treat GitHub as a **product and operations collaboration environment**.
+
+---
+
+## 🚀 Interests
+
+I'm especially interested in areas such as:
+
+* Product Operations
+* Technical Support Strategy
+* System Usability
+* Process Optimization
+* Operational systems and platform workflows
+* Bridging the gap between users and technical teams
+
+---
+
+## 💡 Personal Philosophy
+
+Good products are rarely built by technology alone.
+
+They are built when **real problems are understood clearly**, communication flows well between teams, and processes evolve together with the product.
+
+That's the space where I like to work.
+
+---
+
+## 📫 Contact
+
+* Email: [caiofelps.silva@gmail.com](mailto:caiofelps.silva@gmail.com)
+* GitHub: @zCaioFelps
