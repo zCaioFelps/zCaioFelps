@@ -1,6 +1,6 @@
 ## Caio Felipe | Support Analyst focused on Product Thinking and Problem Solving
 
-I work where **user experience, and product decisions meet**.
+I work where **user experience and product decisions meet**.
 
 As a Support Analyst with a strong product-oriented mindset, I focus on identifying real user problems, structuring technical feedback, and improving the processes that connect users and development teams.
 
