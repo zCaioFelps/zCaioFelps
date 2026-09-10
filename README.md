@@ -1,81 +1,57 @@
-## Caio Felipe | Support Analyst focused on Product Thinking and Problem Solving
+# Caio Felipe
 
-I work where **user experience and product decisions meet**.
+### Product Owner & Product Operations | Healthcare SaaS
 
-As a Support Analyst with a strong product-oriented mindset, I focus on identifying real user problems, structuring technical feedback, and improving the processes that connect users and development teams.
+I work where user problems, product decisions and internal processes meet.
 
-Great systems are not built only with good code, but with **clear communication, well-structured problems, and continuous improvement**.
+I started in Support, which gave me a practical view of what actually breaks for the people using the system every day. Today I own the path between the operational areas and Development: I analyze incoming requests, separate the problem from the suggested solution, define business rules and priority, and decide what needs to become development work and what is solved by process, documentation or training.
 
-* 📍 Based in Brazil
-* 🗣️ Fluent in English
-* 🐱 Cat person
-* 🎂 Born on **January 27, 2005**
-* 🧩 Passionate about learning how systems, products, and teams work together
+I also redesigned the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end.
+
+📍 Based in Brazil · 🗣️ Fluent in English · 🐱 Cat person · 🧩 Curious about how systems, products and teams work together
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I do
 
-* Product feedback loops between users and development teams
-* Process improvement and operational efficiency
-* Issue triaging and prioritization
-* Translating user problems into structured technical reports
-* Supporting system adoption and usability improvements
-* Documentation and internal process organization
+- Triage, refinement and prioritization of every request that reaches Development
+- Business rules, current behavior and expected behavior
+- Backlog management and release scope
+- Acceptance of deliveries before they enter a release
+- Patch notes written for customers, not for engineers
+- Data migration, from receiving the client base to validation and production
+- Process design, standardization and traceability between areas
 
----
+## ⚙️ How I work
 
-## ⚙️ How I Work
+Good systems are not built only with good code. They are built when real problems are understood clearly, communication flows between teams, and processes evolve together with the product.
 
-I believe good systems are built by **understanding problems clearly and structuring them well**.
+In practice:
 
-My typical workflow involves:
+1. Identify recurring problems and operational friction from real usage
+2. Separate the problem from the solution someone already assumed
+3. Structure the request with context, current and expected behavior, and business rules
+4. Prioritize by impact and risk, not by request volume
+5. Decide what should not be built at all
+6. Close the loop: release, patch notes, and feedback back to the areas that asked
 
-1. Identifying recurring issues or operational friction
-2. Structuring clear issue reports with context and reproduction steps
-3. Prioritizing improvements based on real impact
-4. Supporting product teams with organized feedback from users
-5. Continuously improving internal processes and documentation
+## 📈 How I use GitHub
 
----
+I treat GitHub as a product and operations environment, not only a code host.
 
-## 📈 GitHub Activity
+- I redesigned the issue flow that connects the internal areas to the development team: templates, statuses, priority criteria, request origin, and traceability from the original request to the delivered version
+- I am the single point where an operational request becomes a structured development issue
+- I maintain the issue templates for bugs, feature requests, improvements and data imports
+- I document the process itself, so the flow works without me sitting in the middle of every conversation
 
-My GitHub activity reflects my role within technical workflows:
-
-* High interaction with **issues and project management**
-* Contributions through **documentation and operational improvements**
-* Collaboration with development teams through structured problem reports and process improvements
-
-Even without writing production code, I treat GitHub as a **product and operations collaboration environment**.
-
----
+I do not write production code. What I contribute here is clarity: fewer ambiguous requests, less rework, and a team that builds the right thing.
 
 ## 🚀 Interests
 
-I'm especially interested in areas such as:
-
-* Product Operations
-* Technical Support Strategy
-* System Usability
-* Process Optimization
-* Operational systems and platform workflows
-* Bridging the gap between users and technical teams
-
----
-
-## 💡 Personal Philosophy
-
-Good products are rarely built by technology alone.
-
-They are built when **real problems are understood clearly**, communication flows well between teams, and processes evolve together with the product.
-
-That's the space where I like to work.
-
----
+Product Management · Product Operations · Support Operations · Process design · Data and metrics for product decisions · Healthcare software and its regulatory requirements
 
 ## 📫 Contact
 
-* Email: [caiofelps.silva@gmail.com](mailto:caiofelps.silva@gmail.com)
-* Instagram: [caiofelps_](mailto:https://www.instagram.com/caiofelps_/)
-* GitHub: @zCaioFelps
+- Email: caiofelps.silva@gmail.com
+- LinkedIn: [caiofelps](https://www.linkedin.com/in/caiofelps)
+- Instagram: [@caiofelps_](https://instagram.com/caiofelps_)
