@@ -10,8 +10,6 @@ I also redesigned the demand flow that connects Support, Customer Success, Train
 
 📍 Based in Brazil · 🗣️ Fluent in English · 🐱 Cat person · 🧩 Curious about how systems, products and teams work together
 
----
-
 ## 🧠 What I do
 
 - Triage, refinement and prioritization of every request that reaches Development
