@@ -4,9 +4,9 @@
 
 I work where user problems, product decisions and internal processes meet.
 
-I started in Support, which gave me a practical view of what actually breaks for the people using the system every day. Today I own the path between the operational areas and Development: I analyze incoming requests, separate the problem from the suggested solution, define business rules and priority, and decide what needs to become development work and what is solved by process, documentation or training.
+I started in Support, moving through Support Aide, Support Assistant and Support Analyst before taking the product scope in full. That path is why I read a request and see the person behind it instead of just a ticket. Today, as **Product Analyst**, I own the path between the operational areas and Development: I analyze incoming requests, separate the problem from the suggested solution, define business rules and priority, and decide what needs to become development work and what is solved by process, documentation or training.
 
-I also redesigned the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end.
+I also designed and built the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end, from receiving the legacy database to pricing the service and taking it to production.
 
 📍 Based in Brazil · 🗣️ Advanced in English · 🐱 Cat person · 🧩 Curious about how systems, products and teams work together
 
@@ -19,6 +19,18 @@ I also redesigned the demand flow that connects Support, Customer Success, Train
 - Patch notes written for customers, not for engineers
 - Data migration, from receiving the client base to validation and production
 - Process design, standardization and traceability between areas
+
+## 📊 The number I defend most
+
+**One in four requests never becomes code.**
+
+It is the metric nobody puts on a dashboard, and it is the one I would defend first in any interview.
+
+Those requests were not bad. The right answer simply was not development. Some were duplicates. Some described behavior the system already had. Some were solved by process, documentation or training.
+
+What changes everything is when you find that out. In two days, the person gets an answer. After weeks sitting in the queue, you have spent the team's time and the requester's patience to arrive at exactly the same place.
+
+**96.8% of what comes in originates outside product**, from Support, Customer Success and Training. Part of the backlog does come from my own analysis, but most of it arrives as someone else's problem, described in someone else's words, already wrapped in a solution they assumed. Unwrapping that is the job.
 
 ## ⚙️ How I work
 
@@ -37,12 +49,17 @@ In practice:
 
 I treat GitHub as a product and operations environment, not only a code host.
 
-- I redesigned the issue flow that connects the internal areas to the development team: templates, statuses, priority criteria, request origin, and traceability from the original request to the delivered version
+- I designed the issue flow that connects the internal areas to the development team: two repositories, templates, statuses, a documented priority scale, request origin, and traceability from the original request to the delivered version. It was built before the product role existed in the company structure
 - I am the single point where an operational request becomes a structured development issue
 - I maintain the issue templates for bugs, feature requests, improvements and data imports
-- I document the process itself, so the flow works without me sitting in the middle of every conversation
+- I measure the flow itself: volume by area, invalidation rate, time in queue. A process without a time series is an opinion
+- I document the process, so it works without me sitting in the middle of every conversation
 
 I do not write production code. What I contribute here is clarity: fewer ambiguous requests, less rework, and a team that builds the right thing.
+
+## 🌱 Currently learning
+
+SQL, to decide with data instead of perception · BPMN, to model process · Discovery practices, to stop being reactive about what gets built
 
 ## 🚀 Interests
 
