@@ -8,7 +8,10 @@ I started in Support, moving through Support Aide, Support Assistant and Support
 
 I also designed and built the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end, from receiving the legacy database to pricing the service and taking it to production.
 
-📍 Based in Brazil · 🗣️ Advanced in English · 🐱 Cat person · 🧩 Curious about how systems, products and teams work together
+📍 Based in Brazil
+🗣️ Advanced in English
+🐱 Cat person
+🧩 Curious about how systems, products and teams work together
 
 ## 🧠 What I do
 
