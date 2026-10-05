@@ -6,12 +6,9 @@ I work where user problems, product decisions and internal processes meet.
 
 I started in Support, moving through Support Aide, Support Assistant and Support Analyst before taking the product scope in full. That path is why I read a request and see the person behind it instead of just a ticket. Today, as **Product Analyst**, I own the path between the operational areas and Development: I analyze incoming requests, separate the problem from the suggested solution, define business rules and priority, and decide what needs to become development work and what is solved by process, documentation or training.
 
-I also designed and built the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end, from receiving the legacy database to pricing the service and taking it to production.
+I also redesigned the demand flow that connects Support, Customer Success, Training and Development, and I own the data migration process end to end, from receiving the legacy database to pricing the service and taking it to production.
 
-📍 Based in Brazil
-🗣️ Advanced in English
-🐱 Cat person
-🧩 Curious about how systems, products and teams work together
+📍 Based in Brazil · 🗣️ Advanced in English · 🐱 Cat person · 🧩 Curious about how systems, products and teams work together
 
 ## 🧠 What I do
 
@@ -52,7 +49,7 @@ In practice:
 
 I treat GitHub as a product and operations environment, not only a code host.
 
-- I designed the issue flow that connects the internal areas to the development team: two repositories, templates, statuses, a documented priority scale, request origin, and traceability from the original request to the delivered version. It was built before the product role existed in the company structure
+- I reshaped the issue flow in layers. Every request used to go straight into the development repository. Together with a colleague, I introduced an internal repository as a triage layer, so nothing reached Development unchecked. From there I took the flow on alone: refinement as a required step before anything is handed over, a parent and child issue structure, and the GitHub Project that runs it today, with its views, priority scale, requester and release fields. All of it before the product role existed in the company structure
 - I am the single point where an operational request becomes a structured development issue
 - I maintain the issue templates for bugs, feature requests, improvements and data imports
 - I measure the flow itself: volume by area, invalidation rate, time in queue. A process without a time series is an opinion
